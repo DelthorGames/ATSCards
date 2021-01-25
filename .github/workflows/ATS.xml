@@ -1,0 +1,3007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+<sets>
+<set>
+<name>ATS</name>
+<longname>Among the Stars</longname>
+<settype>Custom</settype>
+</set>
+</sets>
+<cards>
+
+<card>
+ <name>Latos Guard</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender (This creature can’t attack.)
+Latos Guard can’t block legendary creatures.</text>
+</card>
+<card>
+ <name>Imprendian Soldier</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Battalion — Whenever Imprendian Soldier and at least two other creatures attack, Imprendian Soldier gains double strike until end of turn.</text>
+</card>
+<card>
+ <name>Imprendian Knight</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Heroic — Whenever you cast a spell that targets Imprendian Knight, Imprendian Knight gets +0/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Trained Warhawk</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Bird </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+When Trained Warhawk enters the battlefield, create a 1/1 white Soldier creature token.</text>
+</card>
+<card>
+ <name>Devout Citizen</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Citizen </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>As long as no creatures have attacked this turn under your control, Devout Citizen has indestructible.</text>
+</card>
+<card>
+ <name>Capital Watcher</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+As long as you control three or more defending creatures, Capital Watcher has first strike.</text>
+</card>
+<card>
+ <name>Valor Example</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Valor Example enters the battlefield, you gain 1 life.
+Battalion — Whenever Valor Example and at least two other creatures attack, gain 1 life for each attacking nontoken creature you control.</text>
+</card>
+<card>
+ <name>Questing Cavalier</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Heroic — Whenever you cast a spell that targets Questing Cavalier, put a +1/+1 counter on Questing Cavalier.</text>
+</card>
+<card>
+ <name>Imprendian Priest</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever an enchantment enters the battlefield under your control, you gain 1 life.</text>
+</card>
+<card>
+ <name>Devoted Healer</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Devoted Healer enters the battlefield, you may return to your hand target creature card that was put into your graveyard this turn.</text>
+</card>
+<card>
+ <name>Enforce the Truce</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target attacking or blocking non-legendary creature.</text>
+</card>
+<card>
+ <name>City of God's Favor</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +1/+0 and has lifelink.
+Aura swap 1W (1W: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Ilcea's Blessing</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+At the beginning of your turn, flip a coin. If you win the flip, enchanted creature gains indestructible until end of turn. Otherwise, it gets +0/+1 until end of turn.
+Aura swap 1W (1W: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Detain the Rebel</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>WW</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap target non-legendary creature.
+Avenge — Whenever a creature you control dies, if it is the first creature that died this turn, you may return Detain the Rebel from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Recurrent Favor</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature gets +1/+1 for each card named Recurrent Favor among the permanents you control and/or the cards in your graveyard.
+Aura swap 2W (2W: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Critical Intervention</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets -1/+2 until end of turn. Then, target creature you don’t control gets +2/-1.</text>
+</card>
+<card>
+ <name>Royal Superiority</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, tap target untapped non-legendary creature you control.
+Choose one —
+• Destroy target enchantment.
+• Exile target enchantment attached to a creature.</text>
+</card>
+<card>
+ <name>Bold Defiance</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap target legendary creature. Until end of turn, whenever that creature is dealt damage, exile it.</text>
+</card>
+<card>
+ <name>Ivortio's Intervention</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Prevent all combat damage that would be dealt this turn. Then, return each enchantment on the battlefield to its owner’s hand.</text>
+</card>
+<card>
+ <name>Sent Spirit</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Illusion </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flash (You may cast this spell any time you could cast an instant.)
+When Sent Spirit becomes the target of a spell or ability, sacrifice it.</text>
+</card>
+<card>
+ <name>Mystic Refuge Seeker</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>This spell can’t be countered.
+When Mystic Refuge Seeker becomes the target of a spell or ability, you may return it to its owner’s hand.</text>
+</card>
+<card>
+ <name>Arcane Arts Advisor</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Arcane Arts Advisor enters the battlefield, scry 1. Then, you may draw a card. If it’s an Aura card, put a +1/+1 counter on target creature you control.</text>
+</card>
+<card>
+ <name>Imprendian Wizard</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Imprendian Wizard can’t be blocked.
+Heroic — Whenever you cast a spell that targets Imprendian Wizard, Imprendian Wizard gains hexproof until end of turn.</text>
+</card>
+<card>
+ <name>Relic Hunter</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Relic Hunter enters the battlefield, you may gain control of target artifact or enchantment until Relic Hunter leaves the battlefield.</text>
+</card>
+<card>
+ <name>Aural Cleanser</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+2U, T: Attach target Aura to target creature. If you did, scry 1.</text>
+</card>
+<card>
+ <name>Divine Impostor</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Shapeshifter Demigod </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>You may have Divine Impostor enter the battlefield as a copy of any creature on the battlefield, except it is a Demigod in addition to its other types and it has hexproof.</text>
+</card>
+<card>
+ <name>Channeler of the Gods</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an enchantment enters the battlefield under your control, you may search your library for an instant or sorcery card, reveal it, and put it into your hand. If you did, shuffle your library.</text>
+</card>
+<card>
+ <name>Silver Sea Captain</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Pirate </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Heroic — Whenever you cast a spell that targets Silver Sea Captain, target legendary creature you control gets +0/+1 until end of turn.
+U, T: Target Pirate gets +0/+2 until end of turn. Untap it.</text>
+</card>
+<card>
+ <name>Silver Sea Looter</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Pirate </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>A deck can have any number of cards named Silver Sea Looter.
+When Silver Sea Looter enters the battlefield or dies, draw a card, then discard a card.</text>
+</card>
+<card>
+ <name>Inferior Denial</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell with converted mana cost 3 or less. If it was an Aura spell, scry 1. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)</text>
+</card>
+<card>
+ <name>Weaken the Weak</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Up to two target non-legendary creatures get -2/-1 each until end of turn.</text>
+</card>
+<card>
+ <name>Godly Chains</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature can’t attack or block and has -3/-3.
+Aura swap U (U: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Hartheus' Meddling</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You may exchange target Aura you control with another target Aura you control. Then, you may move up to one counter from target creature to another target creature.</text>
+</card>
+<card>
+ <name>Zaeva's Blessing</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Whenever enchanted creature deals damage to a player, scry 1.
+Aura swap 1U (1U: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Strength from Above</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has +2/+2
+Aura swap 2U (2U: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Unfair Intervention</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>XU</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, exile three creature cards from your graveyard.
+Target player mills X cards.</text>
+</card>
+<card>
+ <name>Awaken the Relics</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, tap an untapped artifact you control.
+Draw a card for each artifact and/or enchantment you control. Then, each opponent draws one card.</text>
+</card>
+<card>
+ <name>Mortal Abandonment</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of each turn, each player discards an enchantment card or exiles an enchantment card from their graveyard. If a player is not able to do so, they mill half of the cards in their library, rounded up.</text>
+</card>
+<card>
+ <name>Perlabian Savage</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+B, Exile a creature card from your graveyard: Perlabian Savage gains +2/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Barbaric Intimidator</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Barbaric Intimidator attacks each turn if able.</text>
+</card>
+<card>
+ <name>Impure Warlord</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Impure Warlord enters the battlefield, you lose 3 life.
+Domain — Impure Warlord has +2/+0 for each basic land type among lands you control.</text>
+</card>
+<card>
+ <name>Cursed Soldier</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+When Cursed Soldier enters the battlefield, you may return target Aura you don’t control to its owner’s hand.</text>
+</card>
+<card>
+ <name>Perlabian Warleader</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Avenge — Whenever a creature you control dies, if it is the first creature that died this turn, target creature you control gains lifelink until end of turn.</text>
+</card>
+<card>
+ <name>Undead Infiltrator</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Zombie Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>As an additional cost to cast this spell, exile a creature card from your graveyard. Target opponent creates a token that’s a copy of it, except it has base power and toughness of 1/1 and is a Zombie in addition to its other types.
+Menace, lifelink</text>
+</card>
+<card>
+ <name>Relentless Attacker</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Relentless Attacker can’t block.
+Whenever Relentless Attacker becomes tapped, put a -1/-1 counter on it.</text>
+</card>
+<card>
+ <name>Flesh-Eating Rider</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Zombie Knight </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+As long as there are eight or more creatures in any one graveyard, Flesh-Eating Rider has deathtouch.</text>
+</card>
+<card>
+ <name>Horror of the Dark Kingdom</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Vampire Warrior </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink, flying
+When Horror of the Dark Kingdom enters the battlefield, destroy up to one target creature you control. If you did, you gain life equal to that creature’s converted mana cost.</text>
+</card>
+<card>
+ <name>Dark Army Remnant</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Avenge — Whenever a creature you control dies, if it is the first creature that died this turn, target player discards a creature card.</text>
+</card>
+<card>
+ <name>Thirst for Betrayal</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Whenever enchanted creature attacks, it deals 1 damage to itself and 2 damage to target creature its controller controls.
+Aura swap B (B: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Army Consumption</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Discard your hand. You gain life equal to the number of cards discarded this way plus 2.</text>
+</card>
+<card>
+ <name>From Towers to Hearts</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Domain — At the beginning of you combat step, From Towers to Hearts deals 1 damage to target creature for each basic land type among lands you control.</text>
+</card>
+<card>
+ <name>Banned from the City</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Whenever a creature damaged by enchanted creature dies, its controller discards a card. Then, put a +1/+1 counter on enchanted creature.</text>
+</card>
+<card>
+ <name>Hipocelous' Blessing</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has deathtouch.
+If a creature damaged by enchanted creature would go to a graveyard, exile it instead.
+Aura swap 1B (1B: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Legend Rising</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile a legendary creature card from your graveyard. Then, create token that’s a copy of it, except it’s a Zombie in addition to its other types. At the end of this turn, exile that token.</text>
+</card>
+<card>
+ <name>Break the Truce</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target non-legendary creature. You lose 4 life.</text>
+</card>
+<card>
+ <name>Hipocelous' Departure</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put a -1/-1 counter on each creature on the battlefield. Until end of turn, each player may play up to one card from their graveyard.</text>
+</card>
+<card>
+ <name>Underworld Buyback</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, sacrifice a creature with converted mana cost 2 or greater.
+Return target non-legendary creature from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Imprendian Captain</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Double strike
+Battalion — Whenever Imprendian Captain and at least two other creatures attack, Imprendian Captain gains menace until end of turn.</text>
+</card>
+<card>
+ <name>Capital Strong Arm</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Avenge — Whenever a creature you control dies, if it is the first creature that died this turn, untap Capital Strong Arm.</text>
+</card>
+<card>
+ <name>Animonte's Supporter</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Rebel </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+Battalion — Whenever Animonte’s Supporter and at least two other creatures attack, it deals 1 damage to target creature or player.</text>
+</card>
+<card>
+ <name>Attack Leader</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Attack Leader enters the battlefield, exile the top card of your library. Until end of turn, you may play that card.
+Avenge — Whenever a creature you control dies, if it is the first creature that died this turn, creatures you control get +0/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Animonte's Adjutant</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike (This creature deals combat damage before creatures without first strike.)
+As long as you control one or more legendary creatures and/or Knights, Animonte’s Adjutant has menace.</text>
+</card>
+<card>
+ <name>Spontaneous Renegade</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>RR</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Rebel </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Spontaneous Renegade enters the battlefield, discard a card, then draw a card.
+Spontaneous Renegade attacks each turn if able.</text>
+</card>
+<card>
+ <name>Catapult Operator</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>1R: Catapult Operator gets +1/+0 until end of turn.
+R, T, Tap an artifact you control: Deal damage to target creature or player equal to Catapult Operator’s power.</text>
+</card>
+<card>
+ <name>Victorious Champion</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Heroic — Whenever you cast a spell that targets Victorious Champion, Victorious Champion gets +0/+1 and gains menace until end of turn.</text>
+</card>
+<card>
+ <name>Tavern Brawler</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Battalion — Whenever Tavern Brawler and at least two other creatures attack, you may tap target artifact or nonbasic land.</text>
+</card>
+<card>
+ <name>Traitorous Aristocrat</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>Domain — Whenever a legendary creature enters the battlefield, choose a creature for each basic land type among lands you control. Chosen creatures gain haste until end of turn.</text>
+</card>
+<card>
+ <name>Gloryborn Cohort</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender, double strike
+As long as you control a God or Demigod, Gloryborn Cohort can attack as though it didn’t have defender.</text>
+</card>
+<card>
+ <name>Divine Recruitment</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Gain control of target non-legendary creature until end of turn. Untap that creature.
+• Gain control of target legendary creature. Divine Recruitment deals 2 damage to you.</text>
+</card>
+<card>
+ <name>Conquer</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Domain — Tap a land you don’t control for each basic land type among lands you control. Lands tapped this way don’t untap during their controller’s next untap step unless they pay 1 for each of the ones they untap.</text>
+</card>
+<card>
+ <name>Flaming Storm</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Deal 1 damage to target creature. Repeat this process for each creature you control with power 2 or greater. You may choose new targets each time.</text>
+</card>
+<card>
+ <name>Cursed Fury</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+At the beginning of its controller’s turn, enchanted creature fights another creature its controller controls of that player’s choice. (Each deals damage equal to its power to the other.)</text>
+</card>
+<card>
+ <name>Fostos' Blessing</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has double strike, haste and attacks each turn if able.
+Aura swap 1R (1R: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Fostos' Intervention</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target non-legendary creature gains double strike until end of turn.</text>
+</card>
+<card>
+ <name>Profits of War</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>RR</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever three or more creatures attack, you may discard a card. If you do, draw a card.
+At the end of each turn, if no creatures attacked this turn, put a peace counter on Profits of War. Otherwise, remove a peace counter from it. Then if there are two or more peace counters on it, sacrifice it.</text>
+</card>
+<card>
+ <name>Prepare for War</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target non-legendary creature gains haste until end of turn. Scry 1.</text>
+</card>
+<card>
+ <name>Perlabian Ambusher</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Perlabian Ambusher enters the battlefield, if you control three or more Forests, it gets +2/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Treetop Dragon Hunter</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Mercenary </type>
+ <pt>1/0</pt>
+ <tablerow>2</tablerow>
+ <text>Reach (This creature can block creatures with flying.)
+Domain — Treetop Dragon Hunter gets +0/+1 for each basic land type among lands you control.</text>
+</card>
+<card>
+ <name>Bribed Surveyor</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Advisor </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>T, Discard a card: Look at the top card of your library. If it’s a land, put it onto the battlefield tapped.</text>
+</card>
+<card>
+ <name>Imprendian Bear</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Bear </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+Domain — When Imprendian Bear enters the battlefield, you may return up to one card named Imprendian Bear from your graveyard to your hand for each basic land type among lands you control.</text>
+</card>
+<card>
+ <name>Imprendian Woodward</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Archer </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+When Imprendian Woodward enters the battlefield, if you control four or more Forests, add G to your mana pool.</text>
+</card>
+<card>
+ <name>Spirit of the Waterfall</name>
+ <set rarity="common">ATS</set>
+ <color>UG</color>
+ <manacost>1G/U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Spirit </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Spirit of the Waterfall enters the battlefield, you may return target land card from your graveyard to your hand.
+GG: Add one mana of any color.
+U, T: Scry 1.</text>
+</card>
+<card>
+ <name>Haunted Forest Root-Eater</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Beast </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+Domain — Haunted Forest Root-Eater gets +1/+1 for each basic land type among lands you control.</text>
+</card>
+<card>
+ <name>Gigantic Siegefang</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Beast </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you control four or more basic Forests, Gigantic Siegefang costs 4 less to cast.
+When Gigantic Siegefang enters the battlefield, search your library for a basic Forest card, reveal it, and put it into your hand. Then shuffle your library.</text>
+</card>
+<card>
+ <name>Latos Garden Mole</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Mole </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Latos Garden Mole can’t be blocked by creatures with power 4 or greater.
+G, T: Latos Garden Mole gains hexproof until end of turn</text>
+</card>
+<card>
+ <name>Perlabian Blessing Killer</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Druid </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Perlabian Blessing Killer enters the battlefield, destroy target artifact or Aura.</text>
+</card>
+<card>
+ <name>Siblo's Blessing</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>1G</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When Siblo’s Blessing enters the battlefield, choose a creature you don’t control. Enchanted creature can only be blocked by the chosen creature.
+Aura swap 1G (1G: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Natural Nomination</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>GG</manacost>
+ <cmc>2</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>When Natural Nomination enters the battlefield, choose a legendary creature.
+Choose one or more —
+• Chosen creature must be blocked this turn if able.
+• Until end of turn, chosen creature can’t be blocked by creatures with power 2 or less.
+• Until end of turn, chosen creature can block any number of creatures.</text>
+</card>
+<card>
+ <name>Song of the Elves</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, you may tap all creatures you control. If you do, add C for each creature tapped this way and an additional G for each God tapped this way.</text>
+</card>
+<card>
+ <name>Blessing on the Land</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Creatures you control with base power 4 or greater enter the battlefield with a +1/+1 counter on them.</text>
+</card>
+<card>
+ <name>Achievements of War</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control or two target lands. Then, your opponent gains control of two target lands you control. Then, tap all lands. </text>
+</card>
+<card>
+ <name>Nature's Strength</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has +2/-1.
+You may have enchanted creature assign its combat damage as though it weren’t blocked.</text>
+</card>
+<card>
+ <name>Last Push of Life</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Tap all lands you control. Until end of turn, lands enter the battlefield tapped. You may play up to three additional lands this turn.</text>
+</card>
+<card>
+ <name>Fierce Instinct</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target creature gets +2/+2 and gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Peasant's Respect</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your turn, add G to your mana pool.</text>
+</card>
+<card>
+ <name>Chosen's Squire</name>
+ <set rarity="uncommon">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Chosen’s Squire enters the battlefield, you may return target artifact or enchantment card from your graveyard to your hand.
+Battalion — Whenever Chosen’s Squire and at least two other creatures attack, untap Chosen’s Squire.</text>
+</card>
+<card>
+ <name>City's Scrutiny</name>
+ <set rarity="uncommon">ATS</set>
+ <color>W</color>
+ <manacost>WW</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Heroic — Whenever you cast a spell that targets enchanted creature, you may cast an enchantment card from your hand without paying its mana cost. If you do, destroy City’s Scrutiny.</text>
+</card>
+<card>
+ <name>Title of King</name>
+ <set rarity="uncommon">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Domain — Gain 1 life for each basic land type among lands you control.
+Your opponents can’t cast spells this turn. (Spells cast before this resolves are unaffected.)</text>
+</card>
+<card>
+ <name>Probio's Servant</name>
+ <set rarity="uncommon">ATS</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+W: Probio’s Servant gains first strike until end of turn. Activate this ability only if there are one or more Auras attached to creatures you control.</text>
+</card>
+<card>
+ <name>High Priest of Imprendia</name>
+ <set rarity="uncommon">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever an Aura enchants a creature you control, you gain 1 life.
+2W: Legendary creatures you control gain +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Imprendia's Army</name>
+ <set rarity="uncommon">ATS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Domain — At the beginning of your army, create a 1/1 white Soldier creature token for each basic land type among lands you control.</text>
+</card>
+<card>
+ <name>New Beginning</name>
+ <set rarity="uncommon">ATS</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy all non-legendary creatures. You gain 3 life.</text>
+</card>
+<card>
+ <name>Lucky Strike</name>
+ <set rarity="uncommon">ATS</set>
+ <color>W</color>
+ <manacost>WWW</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target attacking creature. Target creature blocking it gains indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Vengeful Rage</name>
+ <set rarity="uncommon">ATS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Avenge — Whenever a creature you control dies, if it is the first creature that died this turn, enchanted creature gets +2/+0 until end of turn.</text>
+</card>
+<card>
+ <name>Fortunate Reinforcements</name>
+ <set rarity="uncommon">ATS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a 1/1 white Soldier creature token. If you control an untapped legendary creature, you may tap it. If you do, create three 1/1 white Soldier creature tokens instead.</text>
+</card>
+<card>
+ <name>Hipocelous' Permission</name>
+ <set rarity="uncommon">ATS</set>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature you control
+Exile enchanted creature: Return to the battlefield target creature card from your graveyard that was put there this turn.
+Aura swap 2W</text>
+</card>
+<card>
+ <name>Domestic Deity</name>
+ <set rarity="uncommon">ATS</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Spirit </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Hexproof
+1U, T: Counter target enchantment spell.</text>
+</card>
+<card>
+ <name>Antiquity Examiner</name>
+ <set rarity="uncommon">ATS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Artificer </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Antiquity Examiner enters the battlefield, look at the top card of your library. If it’s an Aura or artifact card, you may reveal it an put it into your hand.</text>
+</card>
+<card>
+ <name>Blessmancer</name>
+ <set rarity="uncommon">ATS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Blessmancer enters the battlefield, scry 1.
+U, T: Return an enchantment you control to its owner’s hand.</text>
+</card>
+<card>
+ <name>Nighthawk Trainer</name>
+ <set rarity="uncommon">ATS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Citizen </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Nighthawk Trainer enters the battlefield, target creature gains flying until end of turn.</text>
+</card>
+<card>
+ <name>Enigmatic Guardian</name>
+ <set rarity="uncommon">ATS</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Sphinx </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Defender, hexproof
+Whenever a non-legendary creature enters the battlefield, you may look at the top card of your library. If it’s not an enchantment card, scry 1.</text>
+</card>
+<card>
+ <name>Blessing of Invisibility</name>
+ <set rarity="uncommon">ATS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has hexproof and flying.
+Aura swap 1UU (1UU: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Elder Giant's Breath</name>
+ <set rarity="uncommon">ATS</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Tap target non-legendary creature with converted mana cost 4 or less. That creature doesn’t untap during its controller’s next untap step.</text>
+</card>
+<card>
+ <name>Favor of the Gods</name>
+ <set rarity="uncommon">ATS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Whenever an enchantment enters the battlefield under your control, enchanted creature gets +1/+1 until end of turn.
+Aura swap 2U (2U: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Divine Control</name>
+ <set rarity="uncommon">ATS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, put a legendary creature you control on the bottom of your library.
+Gain control of target non-legendary creature.</text>
+</card>
+<card>
+ <name>Belief Materialization</name>
+ <set rarity="uncommon">ATS</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target enchantment you control becomes a creature in addition to its other types until end of turn. You may have its base power and toughness become 1/1.</text>
+</card>
+<card>
+ <name>Godly Hesitation</name>
+ <set rarity="uncommon">ATS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Auras you control have aura swap U. (U: Exchange that Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Impatient Fatewatcher</name>
+ <set rarity="uncommon">ATS</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Impatient Fatewatcher enters the battlefield, choose one —
+• Destroy target legendary creature you control. If you did, you gain 3 life.
+• Destroy target non-legendary creature. If you didn’t control it, you lose life equal to its converted mana cost.</text>
+</card>
+<card>
+ <name>Offering Acolyte</name>
+ <set rarity="uncommon">ATS</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever you gain life, you may sacrifice Offering Acolyte. If you do, you gain 2 life.</text>
+</card>
+<card>
+ <name>Betrayer of the Divine</name>
+ <set rarity="uncommon">ATS</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Spirit Warrior </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Betrayer of the Divine deals damage to a player, that player discards a legendary card.</text>
+</card>
+<card>
+ <name>Purging Inquisitor</name>
+ <set rarity="uncommon">ATS</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>1/3</pt>
+ <tablerow>2</tablerow>
+ <text>1, T: Destroy target non-legendary creature you control. If you did, you gain 1 life.
+2B, T: Destroy target non-legendary creature with converted mana cost 3 or less. If you did, you lose 3 life.</text>
+</card>
+<card>
+ <name>Underworld Life-Eater</name>
+ <set rarity="uncommon">ATS</set>
+ <color>B</color>
+ <manacost>3BBB</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Demon </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+Whenever a player taps a nonbasic land for mana, it produces black mana instead of any other type.</text>
+</card>
+<card>
+ <name>Rise Against the Stars</name>
+ <set rarity="uncommon">ATS</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a legendary permanent is put into a graveyard from the battlefield, you gain 1 life. Then, you may exile that card.</text>
+</card>
+<card>
+ <name>Renewed Bloodthirst</name>
+ <set rarity="uncommon">ATS</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Avenge — Whenever a creature you control dies, if it is the first creature that died this turn, enchanted creature gets +1/+1 until end of turn. Then, you gain 1 life.</text>
+</card>
+<card>
+ <name>Mortal Wipe</name>
+ <set rarity="uncommon">ATS</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy all non-legendary creatures your opponents control. You lose 5 life.</text>
+</card>
+<card>
+ <name>Tomb Rising</name>
+ <set rarity="uncommon">ATS</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, exile a creature card from your graveyard.
+Search your library for a God or Demigod card, reveal it, and put it into your hand. Then shuffle your library.</text>
+</card>
+<card>
+ <name>Suspicious Crow</name>
+ <set rarity="uncommon">ATS</set>
+ <color>B</color>
+ <manacost>BB</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Bird </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible, flying, lifelink
+When Suspicious Crow becomes the target of a spell or ability you control, sacrifice it.</text>
+</card>
+<card>
+ <name>Welcome to the Underworld</name>
+ <set rarity="uncommon">ATS</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one or both—
+• Exile target creature in a graveyard.
+• Destroy target creature.</text>
+</card>
+<card>
+ <name>Legion Lieutenant</name>
+ <set rarity="uncommon">ATS</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Other attacking creatures you control get +1/+0.
+Battalion — Whenever Legion Lieutenant and at least two other creatures attack, creatures you control gain menace until end of turn.</text>
+</card>
+<card>
+ <name>Fostos' Legion Leader</name>
+ <set rarity="uncommon">ATS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Minotaur Warrior </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever a creature attacks, all other creatures its controller controls attack if able.
+Battalion — Whenever Fostos’ Legion Leader and at least two other creatures attack, Fostos’ Legion Leader gains first strike until end of turn.</text>
+</card>
+<card>
+ <name>Arena Acquaintance</name>
+ <set rarity="uncommon">ATS</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Avenge — Whenever a creature you control dies, if it is the first creature that died this turn, put a +1/+1 counter on Arena Acquaintance.</text>
+</card>
+<card>
+ <name>Allied Propietor</name>
+ <set rarity="uncommon">ATS</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+Domain — When Allied Propietor enters the battlefield, choose a creature for each basic land type among lands you control. Chosen creatures gain haste until end of turn.</text>
+</card>
+<card>
+ <name>Star of the Stars</name>
+ <set rarity="uncommon">ATS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Minotaur Warrior </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Star of the Stars enters the battlefield, you may attach an Equipment you control to it.
+Star of the Stars has +1/+0 for each Aura and/or Equipment attached to it.</text>
+</card>
+<card>
+ <name>Vengeance</name>
+ <set rarity="uncommon">ATS</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Enchanted creature has +2/+0 and haste.
+At the end of your turn, if no creatures died under your control this turn, sacrifice Vengeance. Otherwise, you may attach it to target creature you control.</text>
+</card>
+<card>
+ <name>Join Forces</name>
+ <set rarity="uncommon">ATS</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Domain — Create a 1/1 white Soldier creature token for each basic land type among lands you control.
+Token creatures and/or Knights you control gain haste until end of turn.</text>
+</card>
+<card>
+ <name>Impious Refusal</name>
+ <set rarity="uncommon">ATS</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy all Auras attached to target creature. Target opponent may then choose to exile the top X cards of their library, where X is the number of Auras destroyed this way. Until end of turn, cards exiled this way may be played by their owner.</text>
+</card>
+<card>
+ <name>Madness from Above</name>
+ <set rarity="uncommon">ATS</set>
+ <color>R</color>
+ <manacost>XRR</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target creature deals damage equal to its power to another target creature.
+Repeat this process X plus 2 times, alternating between you and target opponent choosing the targets, starting with you choosing them.</text>
+</card>
+<card>
+ <name>Arrow Rain</name>
+ <set rarity="uncommon">ATS</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Deal damage to target player or planeswalker equal to the number of attacking creatures you control.</text>
+</card>
+<card>
+ <name>Fire of Fostos</name>
+ <set rarity="uncommon">ATS</set>
+ <color>R</color>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Deal 5 damage to target non-legendary creature that has no Auras attached to it.</text>
+</card>
+<card>
+ <name>Siblo's Incarnation</name>
+ <set rarity="uncommon">ATS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Incarnation </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Siblo’s Incarnation enters the battlefield, you may cast a creature card with converted mana cost equal to 3 from your hand without paying its mana cost.
+5G, T, Sacrifice Siblo’s Incarnation: Search your library for a legendary card, reveal it, and put it into your hand. Then shuffle your library.</text>
+</card>
+<card>
+ <name>Territorial Inhabitant</name>
+ <set rarity="uncommon">ATS</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Beast </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Domain — When Territorial Inhabitant enters the battlefield, put a +1/+1 counter on it for each basic land type among lands you control.
+GGGGG, T: For each +1/+1 counter on Territorial Inhabitant, put an additional one on it.</text>
+</card>
+<card>
+ <name>Treetop Hero Helper</name>
+ <set rarity="uncommon">ATS</set>
+ <color>G</color>
+ <manacost>GG</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Druid </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Reach, defender
+T: Add G to your mana pool.
+GGG, T: Target legendary permanent gains indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Burier of the Great</name>
+ <set rarity="uncommon">ATS</set>
+ <color>G</color>
+ <manacost>3G</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>T, Exile a legendary card from your graveyard: Add one mana of any color to your mana pool.</text>
+</card>
+<card>
+ <name>Ancient Giant</name>
+ <set rarity="uncommon">ATS</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Giant </type>
+ <pt>5/6</pt>
+ <tablerow>2</tablerow>
+ <text>During you first main phase, instead of paying Ancient Giant’s mana cost, you may tap three untapped legendary creatures you control.
+GG, T: Destroy target artifact or enchantment.</text>
+</card>
+<card>
+ <name>Annex the Adjacent</name>
+ <set rarity="uncommon">ATS</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Domain — Put up to one basic land from your hand onto the battlefield tapped for each basic land type among lands you control.</text>
+</card>
+<card>
+ <name>Come to Earth</name>
+ <set rarity="uncommon">ATS</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Search your library and/or graveyard for a God or Demigod card, reveal it, and put it into your hand. Then shuffle your library.</text>
+</card>
+<card>
+ <name>Power from Below</name>
+ <set rarity="uncommon">ATS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each opponent creates a 1/1 green Saproling creature token. Then, exile any number of creature cards from your graveyard. Put a +1/+1 counter on target creature for each card exiled this way.</text>
+</card>
+<card>
+ <name>Ancient Stomp</name>
+ <set rarity="uncommon">ATS</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Target legendary creature gets +1/+1 and gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Siblo's Power</name>
+ <set rarity="uncommon">ATS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Tap any number of untapped green creatures you control. Then, target creature gets +X/+X until end of turn, where X is the number of creatures tapped this way.</text>
+</card>
+<card>
+ <name>Godly Visit</name>
+ <set rarity="uncommon">ATS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, reveal a legendary card from your hand.
+Search your library for a nonbasic land card and put it onto the battlefield tapped. Then shuffle your library.</text>
+</card>
+<card>
+ <name>Archpriest of Dictia</name>
+ <set rarity="rare">ATS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Lifelink
+Whenever an enchantment enters the battlefield under your control, you may attach target Aura to target creature.</text>
+</card>
+<card>
+ <name>Storytelling Veteran</name>
+ <set rarity="rare">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you reveal a legendary card from your hand, put a +1/+1 counter on target creature.
+1, T: Reveal from your hand a legendary card that you haven’t revealed before.</text>
+</card>
+<card>
+ <name>Aspiring Hero</name>
+ <set rarity="rare">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+When Aspiring Hero enters the battlefield, exile target legendary creature until Aspiring Hero leaves the battlefield.</text>
+</card>
+<card>
+ <name>Foreign King</name>
+ <set rarity="rare">ATS</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>First strike
+As long as you don’t control any legendary creatures, other creatures you control get +1/+1.</text>
+</card>
+<card>
+ <name>Favor of the Undecided</name>
+ <set rarity="rare">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+When Favor of the Undecided enters the battlefield, if it wasn’t cast from your hand, enchanted creature gets +1/+1 until end of turn.
+Enchanted creature has vigilance.</text>
+</card>
+<card>
+ <name>Social Reorganization</name>
+ <set rarity="rare">ATS</set>
+ <color>W</color>
+ <manacost>2W</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Tap all legendary creatures.
+• Tap all non-legendary creatures.</text>
+</card>
+<card>
+ <name>Backup from Afar</name>
+ <set rarity="rare">ATS</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Domain — At the beginning of your combat phase, you may pay W. If you do, create a 1/1 white Soldier creature token for each basic land type among lands you control.</text>
+</card>
+<card>
+ <name>Divine Impulse</name>
+ <set rarity="rare">ATS</set>
+ <color>U</color>
+ <manacost>1UU</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, Aura spells you cast cost 2 less to cast.</text>
+</card>
+<card>
+ <name>Supporter of the Wipe</name>
+ <set rarity="rare">ATS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Supporter of the Wipe enters the battlefield, you may return target non-legendary creature you don’t control to its owner’s hand.</text>
+</card>
+<card>
+ <name>Champion Helper</name>
+ <set rarity="rare">ATS</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>This spell can’t be countered.
+When Champion Helper enters the battlefield, up to one target creature with one or more Auras attached to it gets +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Star Eater</name>
+ <set rarity="rare">ATS</set>
+ <color>U</color>
+ <manacost>U</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Mystic </type>
+ <pt>*/*</pt>
+ <tablerow>2</tablerow>
+ <text>This creature’s power and toughness are each equal to the number of enchantments on the battlefield.
+2U, T: Draw a card.</text>
+</card>
+<card>
+ <name>Godfinder</name>
+ <set rarity="rare">ATS</set>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Mystic </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>When Godfinder enters the battlefield, look at the top three cards of your library. If there is a God or Demigod card among them, you may reveal the top three cards of your library, draw three cards, and then discard two cards.</text>
+</card>
+<card>
+ <name>Divine Pressure</name>
+ <set rarity="rare">ATS</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Flash
+Enchant creature
+Enchanted creature gets +X/+X, where X is the number of Auras attached to it.
+Aura swap U (U: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>King of All's Blizzard</name>
+ <set rarity="rare">ATS</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Tap all non-legendary creatures. Creatures tapped this way don’t untap during their controller’s next untap step.</text>
+</card>
+<card>
+ <name>Cleansing Priest</name>
+ <set rarity="rare">ATS</set>
+ <color>B</color>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Cleansing Priest enters the battlefield, you may sacrifice it. If you do, destroy target tapped non-legendary creature.
+When Cleansing Priest dies, you gain 1 life.</text>
+</card>
+<card>
+ <name>Fury Whisperer</name>
+ <set rarity="rare">ATS</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Avenge — Whenever a creature you control dies, if it is the first creature that died this turn, target creature gains deathtouch until end of turn.</text>
+</card>
+<card>
+ <name>Forsaken Assassin</name>
+ <set rarity="rare">ATS</set>
+ <color>B</color>
+ <manacost>1B</manacost>
+ <cmc>2</cmc>
+ <type>Creature - Human Assassin </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever Forsaken Assassin deals damage to a creature with one or more Auras attached to it, destroy that creature.</text>
+</card>
+<card>
+ <name>Careless Gravedigger</name>
+ <set rarity="rare">ATS</set>
+ <color>B</color>
+ <manacost>3B</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Careless Gravedigger enters the battlefield, you may exile target creature card from your graveyard. If you do, create a token that’s a copy of it, except it’s a Zombie in addition to its other types.</text>
+</card>
+<card>
+ <name>Royal Assasination</name>
+ <set rarity="rare">ATS</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Destroy up to two legendary creatures each with converted mana cost 5 or greater.
+• Destroy up to two non-legendary creatures each with converted mana cost 5 or less.</text>
+</card>
+<card>
+ <name>Offering Ritual</name>
+ <set rarity="rare">ATS</set>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of each upkeep, you may sacrifice a creature. If you do, you gain 1 life. If it is a legendary creature, you gain 2 life instead.</text>
+</card>
+<card>
+ <name>Netherworld Gatekeeper</name>
+ <set rarity="rare">ATS</set>
+ <color>B</color>
+ <manacost>BBB</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Zombie Dog </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Deathtouch
+2, T, Sacrifice an artifact: Return target creature card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Hired Avenger</name>
+ <set rarity="rare">ATS</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Mercenary </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Haste, first strike
+Avenge — Whenever a creature you control dies, if it is the first creature that died this turn, you may pay RR. If you do, put Hired Avenger from your hand onto the battlefield.</text>
+</card>
+<card>
+ <name>Sponsored Conqueror</name>
+ <set rarity="rare">ATS</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+Domain — Sponsored Conqueror gets +1/+0 for each basic land type among lands you control.
+R, T: Tap target nonbasic land.</text>
+</card>
+<card>
+ <name>Furious Gladiator</name>
+ <set rarity="rare">ATS</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>3/2</pt>
+ <tablerow>2</tablerow>
+ <text>Furious Gladiator attacks each turn if able.
+Heroic — Whenever you cast a spell that targets Furious Gladiator, Furious Gladiator gains menace and haste until end of turn.</text>
+</card>
+<card>
+ <name>Champion Motivator</name>
+ <set rarity="rare">ATS</set>
+ <color>R</color>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>At the beginning of your combat phase, choose one —
+• Creatures you control with any number of Auras attached to them attack this turn if able and get +2/+0 until end of turn.
+• Champion Motivator deals 3 damage to each creature you control.</text>
+</card>
+<card>
+ <name>Godly Judgement</name>
+ <set rarity="rare">ATS</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile the top X cards of your library, where X is the number of legendary creatures and/or Knights you control. Until end of turn, you may play enchantment cards exiled this way.
+Until end of turn, enchantment spells you cast cost 1 less to cast.</text>
+</card>
+<card>
+ <name>Quick Expansion</name>
+ <set rarity="rare">ATS</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, gain control of up to X target lands, where X is the number of legendary permanents tapped to pay for the mana cost of this spell.</text>
+</card>
+<card>
+ <name>Sight of our Heroes</name>
+ <set rarity="rare">ATS</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+ <cmc>3</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Target creature can’t attack this turn.
+• Up to X target creatures can’t attack this turn, where X is the number of legendary creatures you control.</text>
+</card>
+<card>
+ <name>Priest of Life</name>
+ <set rarity="rare">ATS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Druid </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>1, T: Add GG to your mana pool.
+T: Add G or one mana of a color that could be produced by target basic land you control to your mana pool.</text>
+</card>
+<card>
+ <name>Relic Animator</name>
+ <set rarity="rare">ATS</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Human Shaman </type>
+ <pt>1/4</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+2, T: Destroy target artifact or enchantment. Its controller may put target legendary creature card from their graveyard into their hand.</text>
+</card>
+<card>
+ <name>Graveshaker</name>
+ <set rarity="rare">ATS</set>
+ <color>G</color>
+ <manacost>4GG</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Beast </type>
+ <pt>6/7</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+When Graveshaker enters the battlefield, you may pay G. If you do and there are three or more creature cards in your graveyard, create three 1/1 green Saproling creature tokens.</text>
+</card>
+<card>
+ <name>Underquake</name>
+ <set rarity="rare">ATS</set>
+ <color>G</color>
+ <manacost>2GG</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Domain — Put a creature card from your graveyard into your hand for each basic land type among lands you control.</text>
+</card>
+<card>
+ <name>Ancient's Help</name>
+ <set rarity="rare">ATS</set>
+ <color>G</color>
+ <manacost>1GG</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Gain control of target creature with converted mana cost 4 or greater until end of turn. Untap that creature. You may have it fight target creature. (Each deals damage equal to its power to the other.)</text>
+</card>
+<card>
+ <name>Life from Death</name>
+ <set rarity="rare">ATS</set>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile all cards from all graveyards. Each player creates a 1/1 green Saproling creature token for each card exiled this way.</text>
+</card>
+<card>
+ <name>Vasila's Strength</name>
+ <set rarity="rare">ATS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant creature
+Domain — Enchanted creature has trample and gets +1/+1 for each basic land type among lands you control.
+Aura swap GG (GG: Exchange this Aura with an Aura card in your hand.)</text>
+</card>
+<card>
+ <name>Probio of Hequena</name>
+ <set rarity="mythic">ATS</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Knight </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance, first strike
+Heroic — Whenever you cast a spell that targets Probio of Hequena, create a 1/1 white Soldier creature token.
+3W, T: Prevent all combat damage that would be dealt this turn.</text>
+</card>
+<card>
+ <name>Miresa, Goddess of Light</name>
+ <set rarity="mythic">ATS</set>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Enchantment Creature - God </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible
+As long as there are one or more non-legendary creatures on the battlefield, Miresa isn’t a creature.
+Whenever three or more creatures you control attack, untap all creatures you control.</text>
+</card>
+<card>
+ <name>Destros of Fidna</name>
+ <set rarity="mythic">ATS</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Knight </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Hexproof
+This spell can’t be countered.
+At the beginning of your combat phase, scry 1.
+1U, T: Draw a card.</text>
+</card>
+<card>
+ <name>Zaeva, Goddess of Knowledge</name>
+ <set rarity="mythic">ATS</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Enchantment Creature - God </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible
+As long as there are one or more non-legendary creatures on the battlefield, Zaeva isn’t a creature.
+Whenever you draw a card, look at the top card of your library. If it’s an Aura card, you may scry 1.</text>
+</card>
+<card>
+ <name>Open the Underworld</name>
+ <set rarity="mythic">ATS</set>
+ <color>B</color>
+ <manacost>XBB</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile all Gods and Demigods on the battlefield. Each player may return up to X target creature cards of their choice from their graveyard to their hand.</text>
+</card>
+<card>
+ <name>Hartheus, God of Deceit</name>
+ <set rarity="mythic">ATS</set>
+ <color>B</color>
+ <manacost>3BB</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Enchantment Creature - God </type>
+ <pt>4/5</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible
+As long as there are one or more non-legendary creatures on the battlefield, Hartheus isn’t a creature.
+Whenever a creature an opponent controls dies, you may sacrifice a non-legendary creature. If you do, you gain 2 life.</text>
+</card>
+<card>
+ <name>Animonte of Latos</name>
+ <set rarity="mythic">ATS</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Knight </type>
+ <pt>4/4</pt>
+ <tablerow>2</tablerow>
+ <text>Haste, double strike
+Avenge — Whenever a creature you control dies, if it is the first creature that died this turn, Animonte of Latos gets +2/+1 until end of turn. Then, you may attach an Equipment you control to Animonte.</text>
+</card>
+<card>
+ <name>Fostos, God of War</name>
+ <set rarity="mythic">ATS</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Enchantment Creature - God </type>
+ <pt>5/3</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible
+As long as there are one or more non-legendary creatures on the battlefield, Fostos isn’t a creature.
+Whenever a creature you control deals damage to a player, you may have Fostos deal 3 damage to each player.</text>
+</card>
+<card>
+ <name>Wake the Ancients</name>
+ <set rarity="mythic">ATS</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Each player searches their library for up to three non-legendary creature cards with converted mana cost 4 or greater, reveals them, puts them into their hand and then shuffles their library.</text>
+</card>
+<card>
+ <name>Siblo, God of Nature</name>
+ <set rarity="mythic">ATS</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Enchantment Creature - God </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Indestructible
+As long as there are one or more non-legendary creatures on the battlefield, Siblo isn’t a creature.
+All lands you control have “1, T: Add one mana of any color.”</text>
+</card>
+<card>
+ <name>Ilcea, Goddess of Luck</name>
+ <set rarity="uncommon">ATS</set>
+ <color>WU</color>
+ <manacost>1WU</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Enchantment Creature - God </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>As long as you don’t control any basic Islands, Ilcea, Goddess of Luck isn’t a creature.
+1W/U: Flip a coin. If you win the flip, you may play an enchantment card from your hand without paying its mana cost.</text>
+</card>
+<card>
+ <name>Perlabian Necromancer</name>
+ <set rarity="uncommon">ATS</set>
+ <color>UB</color>
+ <manacost>2UB</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Wizard </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Non-legendary creatures your opponents control get -0/-1.
+UB, Sacrifice a creature: Reveal the top three cards of your library. If any of those cards is an Aura and/or legendary card, draw three cards. Otherwise, draw a card.</text>
+</card>
+<card>
+ <name>Pit Fight Organizer</name>
+ <set rarity="uncommon">ATS</set>
+ <color>BR</color>
+ <manacost>2BR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Citizen </type>
+ <pt>3/5</pt>
+ <tablerow>2</tablerow>
+ <text>Avenge — Whenever a creature you control dies, if it is the first creature that died this turn, exile the top card of your library. Until end of turn, you may play that card from exile without paying its mana cost.</text>
+</card>
+<card>
+ <name>Imprendian Landlord</name>
+ <set rarity="uncommon">ATS</set>
+ <color>RG</color>
+ <manacost>2RG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+Domain — When Imprendian Landlord enters the battlefield, choose a creature for each basic land type among lands you control. Chosen creatures gain haste and trample until end of turn.</text>
+</card>
+<card>
+ <name>Gerant, Chief Butler</name>
+ <set rarity="uncommon">ATS</set>
+ <color>WG</color>
+ <manacost>1GW</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Human </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Heroic — Whenever you cast a spell that targets Gerant, Chief Butler, other creatures you control gain vigilance until end of turn.
+GW: Add one mana of any color to your mana pool for each legendary permanent you control.</text>
+</card>
+<card>
+ <name>Servant of Hipocelous</name>
+ <set rarity="uncommon">ATS</set>
+ <color>WB</color>
+ <manacost>1WB</manacost>
+ <cmc>3</cmc>
+ <type>Creaure - Bird</type>
+ <tablerow>1</tablerow>
+ <text>Indestructible, flying, lifelink
+B, T: Target creature gains deathtouch until end of turn.
+W, T: You gain 2 life. Activate this ability only if there is a legendary card in your graveyard.</text>
+</card>
+<card>
+ <name>Mortal Champion</name>
+ <set rarity="uncommon">ATS</set>
+ <color>UR</color>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>4/3</pt>
+ <tablerow>2</tablerow>
+ <text>Menace
+R: Mortal Champion gets +X/+0 until end of turn, where X is the number of Auras attached to it.
+1U: Return target Aura to its owner’s hand.</text>
+</card>
+<card>
+ <name>King of Perlabos</name>
+ <set rarity="uncommon">ATS</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Noble </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Domain — At the beginning of your turn, you may return a creature card from your graveyard to your hand for each basic land type among lands you control. You lose 5 life for each creature returned this way.
+B, Sacrifice a creature named King of Perlabos: Put King of Perlabos from your graveyard onto the battlefield.</text>
+</card>
+<card>
+ <name>Charging Rider</name>
+ <set rarity="uncommon">ATS</set>
+ <color>WR</color>
+ <manacost>1RW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Battalion — Whenever Charging Rider and at least two other creatures attack, creatures you control get +1/+0 and gain first strike until end of turn.</text>
+</card>
+<card>
+ <name>Elvish Believer</name>
+ <set rarity="uncommon">ATS</set>
+ <color>UG</color>
+ <manacost>1GU</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Elf Druid </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>This spell can’t be countered.
+When Elvish Believer enters the battlefield, if you control an enchantment, target creature gets +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Greatest Alliance</name>
+ <set rarity="rare">ATS</set>
+ <color>WU</color>
+ <manacost>3WU</manacost>
+ <cmc>5</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Until end of turn, change all instances of “enchanted creature” in the text of each Aura on the battlefield to “each creature enchanted creature’s controller controls.”</text>
+</card>
+<card>
+ <name>Fallen Tyrant</name>
+ <set rarity="rare">ATS</set>
+ <color>UB</color>
+ <manacost>1UB</manacost>
+ <cmc>3</cmc>
+ <type>Enchantment Creature - Incarnation </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>When Fallen Tyrant becomes the target of a spell or ability, sacrifice it.
+As long as you don’t control any Gods, Fallen Tyrant isn’t a creature.
+Whenever Fallen Tyrant deals damage to a non-legendary creature, destroy that creature.</text>
+</card>
+<card>
+ <name>Corpse Incinerator</name>
+ <set rarity="rare">ATS</set>
+ <color>BR</color>
+ <manacost>1BR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Cleric </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>B, Sacrifice a creature: Target creature gets +1/+0 until end of turn.
+R, Exile a creature card from your graveyard: Target creature gains haste until end of turn.</text>
+</card>
+<card>
+ <name>Rebel Lord</name>
+ <set rarity="rare">ATS</set>
+ <color>RG</color>
+ <manacost>2RG</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Human Noble Rebel </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Rebel Lord enters the battlefield, search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+Domain — Rebel Lord gets +0/+1 for each basic land type among lands you control.</text>
+</card>
+<card>
+ <name>Guardian of Latos</name>
+ <set rarity="rare">ATS</set>
+ <color>WG</color>
+ <manacost>1GW</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Dog </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance, defender
+If you control a legendary creature, Guardian of Latos can attack as though it didn’t have defender.</text>
+</card>
+<card>
+ <name>Hipocelous, God of Death</name>
+ <set rarity="rare">ATS</set>
+ <color>WB</color>
+ <manacost>1WBB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Enchantment Creature - God </type>
+ <pt>4/6</pt>
+ <tablerow>2</tablerow>
+ <text>As long as any player controls one or more non-God creatures, Hipocelous, God of Death isn’t a creature.
+Whenever a creature dies, if it is a legendary creature, you gain 3 life.</text>
+</card>
+<card>
+ <name>Smart Champion</name>
+ <set rarity="rare">ATS</set>
+ <color>UR</color>
+ <manacost>1UR</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Warrior </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>When Smart Champion enters the battlefield, scry 1. Then, you may exile the top card of your library. Until end of turn, you may play that card.</text>
+</card>
+<card>
+ <name>Pantheon Watcher</name>
+ <set rarity="rare">ATS</set>
+ <color>BG</color>
+ <manacost>1BG</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Soldier </type>
+ <pt>2/3</pt>
+ <tablerow>2</tablerow>
+ <text>Reach
+B: Pantheon Watcher gains deathtouch until end of turn. Activate this ability only if there is at least one legendary card in your graveyard.</text>
+</card>
+<card>
+ <name>Worthy Captain</name>
+ <set rarity="rare">ATS</set>
+ <color>WR</color>
+ <manacost>4RW</manacost>
+ <cmc>6</cmc>
+ <type>Creature - Human Knight </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>When Worthy Captain enters the battlefield, create three 1/1 white Soldier creature tokens.
+Battalion — Whenever Worthy Captain and at least two other creatures attack, up to three creatures you control gain double strike until end of turn.</text>
+</card>
+<card>
+ <name>Welcoming Devotion</name>
+ <set rarity="rare">ATS</set>
+ <color>UG</color>
+ <manacost>2GU</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever an enchantment creature enters the battlefield, you may tap all creatures and lands you control. If you do, put three +1/+1 counters on it and it gains trample until end of turn.</text>
+</card>
+<card>
+ <name>Battalion's Standard</name>
+ <set rarity="common">ATS</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature has haste.
+Battalion — Whenever Battalion’s Standard and at least two other creatures attack, equipped creature gains +1/+1 until end of turn.
+Equip 1</text>
+</card>
+<card>
+ <name>Amulet of Blessings</name>
+ <set rarity="common">ATS</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature has hexproof.
+Heroic — Whenever you cast a spell that targets equipped creature, scry 1. Then if that spell is an Aura, you may draw a card.
+Equip 2</text>
+</card>
+<card>
+ <name>Treasury Coffer</name>
+ <set rarity="common">ATS</set>
+ <color></color>
+ <manacost>4</manacost>
+ <cmc>4</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Domain — At the beginning of your turn, create a Treasure token for each basic land type among lands you control. (They’re artifacts with “T, Sacrifice this artifact: Add one mana of any color.”)
+At the beginning of your end step, sacrifice all Treasures you control.</text>
+</card>
+<card>
+ <name>Marked Helm</name>
+ <set rarity="common">ATS</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +0/+1.
+3: Exchange this Equipment with an Aura card in your hand.
+Equip 1</text>
+</card>
+<card>
+ <name>Avenger's Blade</name>
+ <set rarity="common">ATS</set>
+ <color></color>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature has deathtouch.
+Avenge — Whenever a creature you control dies, if it is the first creature that died this turn, equipped creature gains menace until end of turn.
+Equip 3</text>
+</card>
+<card>
+ <name>Ilcea's Obsidian Sword</name>
+ <set rarity="uncommon">ATS</set>
+ <color>R</color>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When Ilcea’s Obsidian Sword enters the battlefield, if a creature died this turn under your control, you may attach it to target white creature you control.
+Equipped creature has first strike.
+Equip 3</text>
+</card>
+<card>
+ <name>Ilcea's Healing Arrow</name>
+ <set rarity="uncommon">ATS</set>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice Ilcea’s Healing Arrow, Tap target untapped red creature you control: Target creature gains indestructible until end of turn.</text>
+</card>
+<card>
+ <name>Ilcea's Blank Map</name>
+ <set rarity="uncommon">ATS</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>T, Sacrifice Ilcea’s Blank Map: Untap target land you control.</text>
+</card>
+<card>
+ <name>Crown of Perlabos</name>
+ <set rarity="uncommon">ATS</set>
+ <color>BG</color>
+ <manacost>1B/G</manacost>
+ <cmc>2</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature has +3/+3 and deathtouch.
+At the beginning of your upkeep, sacrifice equipped creature.
+Equip 1</text>
+</card>
+<card>
+ <name>Crown Of Imprendia</name>
+ <set rarity="uncommon">ATS</set>
+ <color>WR</color>
+ <manacost>1R/W</manacost>
+ <cmc>2</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature has +1/+1 and haste.
+At the beginning of your turn, if you control one or more creatures with greater power than equipped creature, equipped creature fights the creature with the greatest power among creatures you control.
+Equip 1</text>
+</card>
+<card>
+ <name>Small Kingdom</name>
+ <set rarity="common">ATS</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C to your mana pool.
+1, T: Add one mana of a color in the color identity of a legendary creature you control to your mana pool.
+Sacrifice Small Kingdom: Create a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)</text>
+</card>
+<card>
+ <name>Latos, Restful Home</name>
+ <set rarity="uncommon">ATS</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add G to your mana pool.
+T, Sacrifice a creature: Prevent all combat damage that would be dealt this turn.</text>
+</card>
+<card>
+ <name>Imprendia, Kingdom of Valor</name>
+ <set rarity="uncommon">ATS</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add W to your mana pool.
+T, Sacrifice a legendary creature: Creatures you control get +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Perlabos, Forsaken Kingdom</name>
+ <set rarity="uncommon">ATS</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add B to your mana pool.
+T, Sacrifice a creature: Target player discards a card.</text>
+</card>
+<card>
+ <name>Fidna, Land of Merchants</name>
+ <set rarity="uncommon">ATS</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add U to your mana pool.
+U, T: Draw a card. If you did, discard a card.</text>
+</card>
+<card>
+ <name>Lecta, City without King</name>
+ <set rarity="uncommon">ATS</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add R to your mana pool.
+T, Discard a card: Exile the top card of your library. Until end of turn, you may play that card.</text>
+</card>
+<card>
+ <name>Crown of Stars</name>
+ <set rarity="rare">ATS</set>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <type>Artifact - Equipment </type>
+ <tablerow>1</tablerow>
+ <text>When Crown of Stars enters the battlefield, if there are one or more God creatures on the battlefield, attach it to target God creature.
+Tap equipped creature: Attach all Auras you control to equipped creature.
+Equip legendary creature 1
+Equip 5</text>
+</card>
+<card>
+ <name>Andratha, City in Ruins</name>
+ <set rarity="rare">ATS</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>Andratha, City in Ruins enters the battlefield tapped.
+T: Add C to your mana pool.
+T, Sacrifice all creatures you control: Create a 2/2 black Zombie creature token.</text>
+</card>
+<card>
+ <name>Andratha, Eternal Prison</name>
+ <set rarity="mythic">ATS</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Legendary Land</type>
+ <tablerow>0</tablerow>
+ <text>T: Add C or B.
+T, Exile a creature card from a graveyard: Add to your mana pool mana of a color that’s not in exiled card’s color identity.</text>
+</card>
+<card>
+ <name>Astrax, Lost Brother</name>
+ <set rarity="rare">ATS</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Human Knight </type>
+ <pt>3/4</pt>
+ <tablerow>2</tablerow>
+ <text>Vigilance
+Battalion — Whenever Astrax, Lost Brother and at least two other creatures attack, put a +1/+1 counter on Astrax.
+When Astrax dies, target legendary creature you control gains lifelink until end of turn.</text>
+</card>
+<card>
+ <name>The Oath of Latos</name>
+ <set rarity="rare">ATS</set>
+ <color>U</color>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put all Gods and Demigods on top of their owner’s library. Then, until end of turn, all legendary creatures you control become Gods in addition to their other types, get +1/+1 and gain hexproof.</text>
+</card>
+<card>
+ <name>Sustarces, Lost Father</name>
+ <set rarity="rare">ATS</set>
+ <color>B</color>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Creature - Spirit Knight </type>
+ <pt>0/2</pt>
+ <tablerow>2</tablerow>
+ <text>Flying
+Whenever a creature you control being put into a graveyard or dying causes an ability to trigger, that ability triggers an additional time.</text>
+</card>
+<card>
+ <name>Iqitor, Rescued Mount</name>
+ <set rarity="rare">ATS</set>
+ <color>R</color>
+ <manacost>4R</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Dragon </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Flying, haste
+2, T: Up to three target legendary creatures gain haste and flying until end of turn.
+1, Exile Iqitor from your graveyard: Put up to three target legendary creature cards from your graveyard into your hand.</text>
+</card>
+<card>
+ <name>Haunted Forest Fire-Cat</name>
+ <set rarity="rare">ATS</set>
+ <color>G</color>
+ <manacost>2G</manacost>
+ <cmc>3</cmc>
+ <type>Legendary Creature - Cat Spirit </type>
+ <pt>0/3</pt>
+ <tablerow>2</tablerow>
+ <text>Defender
+When Haunted Forest Fire-Cat becomes the target of a spell or ability, sacrifice it.
+Whenever a creature you control becomes the target of an enchantment, you may put Haunted Forest Fire-Cat from your graveyard onto the battlefield.</text>
+</card>
+<card>
+ <name>Parathos, King of All</name>
+ <set rarity="mythic">ATS</set>
+ <color>WUBRG</color>
+ <manacost>WUBRG</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Enchantment Creature - God </type>
+ <pt>6/6</pt>
+ <tablerow>2</tablerow>
+ <text>Hexproof
+As long as there are less than five basic land types among lands you control, Parathos isn’t a creature and it has indestructible.
+Sacrifice Parathos, King of All: Exile target creature.</text>
+</card>
+<card>
+ <name>Vasila, Queen of Gods</name>
+ <set rarity="mythic">ATS</set>
+ <color>WUBRG</color>
+ <manacost>2W/UB/RG/U</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Enchantment Creature - God </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>When Vasila, Queen of Gods enters the battlefield, if WUBRG was spent to cast it, you may cast any number of enchantment spells from your hand without paying their mana costs. Otherwise, Vasila isn’t a creature.
+2GU, T: Return target Aura or land card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>Animonte, Newborn Star</name>
+ <set rarity="mythic">ATS</set>
+ <color>WR</color>
+ <manacost>2R/WR/W</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Animonte </type>
+ <loyalty>3</loyalty>
+ <tablerow>1</tablerow>
+ <text>[+1]: All non-legendary creatures you control gain +1/+1 until end of turn.
+[-2]: Destroy all enchantments. Then, Animonte, Newborn Star deals 3 damage to any target.
+[-6]: You get an emblem with “Your opponents can’t cast legendary and/or God spells.”</text>
+</card>
+<card>
+ <name>Ficeos, Hunted Carrier</name>
+ <set rarity="mythic">ATS</set>
+ <color>UG</color>
+ <manacost>3G/UG/U</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Creature - Demigod </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Hexproof
+When Ficeos, Hunted Carrier dies, each player may search their library for a card named Vessel of Time, reveal it and put it in their hand. If a player searches the library this way, they shuffle it.</text>
+</card>
+<card>
+ <name>Vessel Of Time</name>
+ <set rarity="mythic">ATS</set>
+ <color></color>
+ <manacost>5</manacost>
+ <cmc>5</cmc>
+ <type>Legendary Artifact</type>
+ <tablerow>1</tablerow>
+ <text>1: Add one mana of any color to your mana pool.
+T: Add one mana of any color in the color identity of a legendary creature you control to your mana pool.
+Exile Vessel Of Time: Put target legendary creature card from your graveyard onto the battlefield.</text>
+</card>
+<card>
+ <name>King's Funeral</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>1WW</manacost>
+ <cmc>3</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile target legendary creature card from your graveyard. If it’s not an enchantment card, creatures you control get +2/+2 until end of turn.</text>
+</card>
+<card>
+ <name>Imprendian Revenge</name>
+ <set rarity="common">ATS</set>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Create three 1/1 white Soldier creature tokens. Then if a creature died this turn under your control, creatures you control get +1/+1 until end of turn.</text>
+</card>
+<card>
+ <name>Decisions Above</name>
+ <set rarity="common">ATS</set>
+ <color>U</color>
+ <manacost>UU</manacost>
+ <cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Scry 1. Then, each player may cast an Aura card from their hand without paying its mana cost.</text>
+</card>
+<card>
+ <name>Sustarces' Funeral</name>
+ <set rarity="common">ATS</set>
+ <color>B</color>
+ <manacost>B</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, exile a Knight and/or legendary creature from your graveyard. 
+Put a +1/+1 counter on target Knight and/or legendary creature you control.</text>
+</card>
+<card>
+ <name>The King's Speech</name>
+ <set rarity="common">ATS</set>
+ <color>R</color>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
+ <type>Instant</type>
+ <tablerow>3</tablerow>
+ <text>Up to three target creatures gain +1/+1 until end of turn. Then if a creature died this turn under your control, all creatures you control gain haste until end of turn.</text>
+</card>
+<card>
+ <name>Arrival at Latos</name>
+ <set rarity="common">ATS</set>
+ <color>G</color>
+ <manacost>G</manacost>
+ <cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>As an additional cost to cast this spell, exile a creature card from your graveyard.
+Put a land from your hand onto the battlefield tapped.</text>
+</card>
+<card>
+ <name>Journey to Telos</name>
+ <set rarity="uncommon">ATS</set>
+ <color>WR</color>
+ <manacost>3RW</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment - Saga </type>
+ <tablerow>1</tablerow>
+ <text>
+I — Put a +1/+1 counter on up to three Knights you control.
+II — Target Knight you control deals damage equal to its power to target non-legendary creature.
+III — Create a 5/5 red Dragon creature token with flying.</text>
+</card>
+<card>
+ <name>God of Deceit's Plan</name>
+ <set rarity="uncommon">ATS</set>
+ <color>UB</color>
+ <manacost>3UB</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment - Saga </type>
+ <tablerow>1</tablerow>
+ <text>
+I — Return all non-legendary creatures on the battlefield to their owner’s hand.
+II — Destroy target non-legendary creature.
+III — Search your library for up to three legendary creature cards, reveal them and put them into your hand. Then shuffle your library.</text>
+</card>
+<card>
+ <name>Animonte's Treason</name>
+ <set rarity="uncommon">ATS</set>
+ <color>WB</color>
+ <manacost>3WB</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment - Saga </type>
+ <tablerow>1</tablerow>
+ <text>
+I — You may put target legendary permanent card from your graveyard onto the battlefield.
+II — Destroy all legendary creatures.
+III — Each opponent loses 5 life. You gain life equal to the life lost this way.</text>
+</card>
+<card>
+ <name>Warrior's Ascend</name>
+ <set rarity="uncommon">ATS</set>
+ <color>UR</color>
+ <manacost>2UR</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment - Saga </type>
+ <tablerow>1</tablerow>
+ <text>
+I — Creatures you control gain +1/+0 until end of turn.
+II — If a creature you control dealt damage to a player this turn, you may cast an Aura card from your hand without paying its mana cost.
+III — You may exchange target creature you control with a legendary creature card in your hand.</text>
+</card>
+<card>
+ <name>Curse of the Cursed King</name>
+ <set rarity="uncommon">ATS</set>
+ <color>BG</color>
+ <manacost>3BG</manacost>
+ <cmc>5</cmc>
+ <type>Enchantment - Saga </type>
+ <tablerow>1</tablerow>
+ <text>
+I — Sacrifice a creature. If you did, return up to a number of creature cards equal to that creature’s converted mana cost from your graveyard to your hand.
+II — You may return target land card from your graveyard to your hand.
+III — Destroy target legendary creature.</text>
+</card>
+<card>
+ <name>Plains</name>
+ <set rarity="">ATS</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Plains </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Island</name>
+ <set rarity="">ATS</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Island </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Swamp</name>
+ <set rarity="">ATS</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Swamp </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Mountain</name>
+ <set rarity="">ATS</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Mountain </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+<card>
+ <name>Forest</name>
+ <set rarity="">ATS</set>
+ <color></color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Basic Land - Forest </type>
+ <tablerow>0</tablerow>
+ <text></text>
+</card>
+
+<!-->Tokens</-->
+
+<card>
+ <name>Soldier</name>
+ <set>ATS</set>
+ <color>W</color>
+ <type>Token Creature - Soldier </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+<card>
+ <name>Saproling</name>
+ <set>ATS</set>
+ <color>G</color>
+ <type>Token Creature - Saproling </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+</card>
+
+</cards>
+</cockatrice_carddatabase>
